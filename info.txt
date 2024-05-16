@@ -1,0 +1,1 @@
+This repo creates a polynomial class with various methods to do operations with polynomials.
